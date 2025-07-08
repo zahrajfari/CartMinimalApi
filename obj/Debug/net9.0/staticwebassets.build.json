@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LzZV4cXpyY6M7e5GEgYA1+r35UVAHFICDz8LKsU3x50=",
+  "Source": "EnterpriseCartAPI",
+  "BasePath": "_content/EnterpriseCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

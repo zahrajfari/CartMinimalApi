@@ -1,0 +1,125 @@
+2025-05-26 13:07:03.214 +03:30 [INF] User profile is available. Using 'C:\Users\abbas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-26 13:07:03.377 +03:30 [INF] Processed 0 expired carts
+2025-05-26 13:07:03.390 +03:30 [INF] Processing analytics data...
+2025-05-26 13:07:03.725 +03:30 [INF] Now listening on: http://localhost:5057
+2025-05-26 13:07:03.726 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-26 13:07:03.727 +03:30 [INF] Hosting environment: Development
+2025-05-26 13:07:03.728 +03:30 [INF] Content root path: E:\LearningProjects\EnterpriseCartAPI
+2025-05-26 13:07:03.985 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/ - null null
+2025-05-26 13:07:04.888 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/ - 404 0 null 907.4161ms
+2025-05-26 13:07:04.916 +03:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5057/, Response status code: 404
+2025-05-26 13:07:40.457 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/index.html - null null
+2025-05-26 13:07:40.561 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/index.html - 200 null text/html;charset=utf-8 105.3353ms
+2025-05-26 13:07:40.620 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui.css - null null
+2025-05-26 13:07:40.637 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/index.css - null null
+2025-05-26 13:07:40.674 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-bundle.js - null null
+2025-05-26 13:07:40.704 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-standalone-preset.js - null null
+2025-05-26 13:07:40.751 +03:30 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-05-26 13:07:40.704 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/index.js - null null
+2025-05-26 13:07:40.784 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/index.css - 200 202 text/css 147.4664ms
+2025-05-26 13:07:40.792 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/index.js - 200 null application/javascript;charset=utf-8 88.1539ms
+2025-05-26 13:07:40.796 +03:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-05-26 13:07:40.796 +03:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-05-26 13:07:40.805 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui.css - 200 154949 text/css 185.3324ms
+2025-05-26 13:07:40.805 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 100.7947ms
+2025-05-26 13:07:40.812 +03:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-05-26 13:07:40.815 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-bundle.js - 200 1484234 text/javascript 141.3171ms
+2025-05-26 13:07:41.044 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/v1/swagger.json - null null
+2025-05-26 13:07:41.058 +03:30 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-05-26 13:07:41.074 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/favicon-32x32.png - null null
+2025-05-26 13:07:41.077 +03:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-05-26 13:07:41.113 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/favicon-32x32.png - 200 628 image/png 39.668ms
+2025-05-26 13:07:41.286 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 242.8492ms
+2025-05-26 13:08:11.970 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/api/v1/products?page=1&size=20 - null null
+2025-05-26 13:08:11.991 +03:30 [INF] Executing endpoint 'HTTP: GET /api/v1/products'
+2025-05-26 13:08:12.021 +03:30 [INF] Setting HTTP status code 200.
+2025-05-26 13:08:12.040 +03:30 [INF] Writing value of type '<>f__AnonymousType4`2' as Json.
+2025-05-26 13:08:12.056 +03:30 [INF] Executed endpoint 'HTTP: GET /api/v1/products'
+2025-05-26 13:08:12.058 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/api/v1/products?page=1&size=20 - 200 null application/json; charset=utf-8 88.315ms
+2025-05-26 13:09:18.651 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/v1/swagger.json - null null
+2025-05-26 13:09:18.660 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.8693ms
+2025-05-26 13:09:18.845 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/favicon.ico - null null
+2025-05-26 13:09:18.851 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/favicon.ico - 404 0 null 5.3163ms
+2025-05-26 13:09:18.854 +03:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5057/favicon.ico, Response status code: 404
+2025-05-26 13:12:03.400 +03:30 [INF] Processing analytics data...
+2025-05-26 13:17:03.407 +03:30 [INF] Processing analytics data...
+2025-05-26 13:22:03.419 +03:30 [INF] Processing analytics data...
+2025-05-26 14:41:38.074 +03:30 [INF] User profile is available. Using 'C:\Users\abbas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-26 14:41:38.184 +03:30 [INF] Processed 0 expired carts
+2025-05-26 14:41:38.193 +03:30 [INF] Processing analytics data...
+2025-05-26 14:41:38.528 +03:30 [INF] Now listening on: http://localhost:5057
+2025-05-26 14:41:38.529 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-26 14:41:38.529 +03:30 [INF] Hosting environment: Development
+2025-05-26 14:41:38.530 +03:30 [INF] Content root path: E:\LearningProjects\EnterpriseCartAPI
+2025-05-26 14:41:39.043 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/ - null null
+2025-05-26 14:41:39.233 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/ - 404 0 null 192.345ms
+2025-05-26 14:41:39.260 +03:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5057/, Response status code: 404
+2025-05-26 14:46:38.196 +03:30 [INF] Processing analytics data...
+2025-05-26 14:51:38.205 +03:30 [INF] Processing analytics data...
+2025-05-26 14:56:38.222 +03:30 [INF] Processing analytics data...
+2025-05-26 16:41:32.835 +03:30 [INF] User profile is available. Using 'C:\Users\abbas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-26 16:41:32.947 +03:30 [INF] Processed 0 expired carts
+2025-05-26 16:41:32.956 +03:30 [INF] Processing analytics data...
+2025-05-26 16:41:33.188 +03:30 [INF] Now listening on: http://localhost:5057
+2025-05-26 16:41:33.189 +03:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-26 16:41:33.190 +03:30 [INF] Hosting environment: Development
+2025-05-26 16:41:33.191 +03:30 [INF] Content root path: E:\LearningProjects\EnterpriseCartAPI
+2025-05-26 16:41:33.749 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/ - null null
+2025-05-26 16:41:33.927 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/ - 404 0 null 181.1519ms
+2025-05-26 16:41:33.953 +03:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5057/, Response status code: 404
+2025-05-26 16:42:15.175 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/api/v1/analytics/metrics - null null
+2025-05-26 16:42:15.294 +03:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-05-26 16:42:15.304 +03:30 [INF] AuthenticationScheme: Bearer was challenged.
+2025-05-26 16:42:15.305 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/api/v1/analytics/metrics - 401 0 null 131.0715ms
+2025-05-26 16:42:25.983 +03:30 [INF] Request starting HTTP/1.1 POST http://localhost:5057/api/v1/auth/login - null 0
+2025-05-26 16:42:25.999 +03:30 [INF] Executing endpoint 'HTTP: POST /api/v1/auth/login'
+2025-05-26 16:42:26.006 +03:30 [INF] Executed endpoint 'HTTP: POST /api/v1/auth/login'
+2025-05-26 16:42:26.201 +03:30 [ERR] An unhandled exception occurred
+Microsoft.AspNetCore.Http.BadHttpRequestException: Implicit body inferred for parameter "request" but no body was provided. Did you mean to use a Service instead?
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.Log.ImplicitBodyNotProvided(HttpContext httpContext, String parameterName, Boolean shouldThrow)
+   at lambda_method64(Closure, Object, HttpContext, Object)
+   at Microsoft.AspNetCore.Http.RequestDelegateFactory.<>c__DisplayClass101_2.<<HandleRequestBodyAndCompileRequestDelegateForJson>b__2>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at ExceptionHandlingMiddleware.InvokeAsync(HttpContext context) in E:\LearningProjects\EnterpriseCartAPI\Middlewares\ExceptionHandlingMiddleware.cs:line 19
+2025-05-26 16:42:26.252 +03:30 [INF] Request finished HTTP/1.1 POST http://localhost:5057/api/v1/auth/login - 500 null application/json 269.0938ms
+2025-05-26 16:42:44.412 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/api/v1/products - null null
+2025-05-26 16:42:44.415 +03:30 [INF] Executing endpoint 'HTTP: GET /api/v1/products'
+2025-05-26 16:42:44.450 +03:30 [INF] Setting HTTP status code 200.
+2025-05-26 16:42:44.474 +03:30 [INF] Writing value of type '<>f__AnonymousType7`2' as Json.
+2025-05-26 16:42:44.489 +03:30 [INF] Executed endpoint 'HTTP: GET /api/v1/products'
+2025-05-26 16:42:44.491 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/api/v1/products - 200 null application/json; charset=utf-8 78.8178ms
+2025-05-26 16:44:12.593 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/api/v1/products/21 - null null
+2025-05-26 16:44:12.597 +03:30 [INF] Executing endpoint 'HTTP: GET /api/v1/products/{productId:int}'
+2025-05-26 16:44:12.599 +03:30 [INF] Setting HTTP status code 200.
+2025-05-26 16:44:12.600 +03:30 [INF] Writing value of type 'ProductResponse' as Json.
+2025-05-26 16:44:12.601 +03:30 [INF] Executed endpoint 'HTTP: GET /api/v1/products/{productId:int}'
+2025-05-26 16:44:12.602 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/api/v1/products/21 - 200 null application/json; charset=utf-8 8.694ms
+2025-05-26 16:45:03.476 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/index.html - null null
+2025-05-26 16:45:03.565 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/index.html - 200 null text/html;charset=utf-8 88.8668ms
+2025-05-26 16:45:03.613 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui.css - null null
+2025-05-26 16:45:03.638 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/index.css - null null
+2025-05-26 16:45:03.640 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-standalone-preset.js - null null
+2025-05-26 16:45:03.638 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-bundle.js - null null
+2025-05-26 16:45:03.666 +03:30 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-05-26 16:45:03.659 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/index.js - null null
+2025-05-26 16:45:03.679 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/index.css - 200 202 text/css 41.4023ms
+2025-05-26 16:45:03.688 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/index.js - 200 null application/javascript;charset=utf-8 30.154ms
+2025-05-26 16:45:03.689 +03:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-05-26 16:45:03.689 +03:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-05-26 16:45:03.699 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 58.7606ms
+2025-05-26 16:45:03.699 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui.css - 200 154949 text/css 85.4829ms
+2025-05-26 16:45:03.708 +03:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-05-26 16:45:03.710 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/swagger-ui-bundle.js - 200 1484234 text/javascript 71.5355ms
+2025-05-26 16:45:03.925 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/swagger/v1/swagger.json - null null
+2025-05-26 16:45:03.941 +03:30 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-05-26 16:45:04.115 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 190.7221ms
+2025-05-26 16:45:22.514 +03:30 [INF] Request starting HTTP/1.1 GET http://localhost:5057/health - null null
+2025-05-26 16:45:22.517 +03:30 [INF] Executing endpoint 'Health checks'
+2025-05-26 16:45:22.533 +03:30 [INF] Executed endpoint 'Health checks'
+2025-05-26 16:45:22.539 +03:30 [INF] Request finished HTTP/1.1 GET http://localhost:5057/health - 200 null text/plain 24.9174ms
+2025-05-26 16:46:32.959 +03:30 [INF] Processing analytics data...
+2025-05-26 16:51:32.967 +03:30 [INF] Processing analytics data...
+2025-05-26 16:56:32.970 +03:30 [INF] Processing analytics data...
+2025-05-26 17:01:32.970 +03:30 [INF] Processing analytics data...
